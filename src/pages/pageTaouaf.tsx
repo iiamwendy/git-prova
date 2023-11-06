@@ -10,7 +10,7 @@ function pageTaouaf() {
         ora devo eseguire una commit delle modifiche sulla mia branch : git add .    
         git commit -m " aggiornamento"
         ora faccio la push delle modifiche :
-        git push origin feature/taouaf-init
+        git push origin taouaf-init
 </p>
     </div>
   );
