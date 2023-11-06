@@ -12,6 +12,15 @@ function pageTaouaf() {
         ora faccio la push delle modifiche :
         git push origin taouaf-init
 </p>
+
+<p>Antipasto: Crostino</p>
+<p>Primo Piatto: Riso</p>
+<p>Secondo Piatto: Filetto di Merluzzo</p>
+<p>Dolce: Tiramisù</p>
+<p>soluzione:per unire le 4 commit : git rebase -i HEAD~4</p>
+
+
+
     </div>
   );
 }
