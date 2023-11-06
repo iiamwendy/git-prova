@@ -17,7 +17,7 @@ function pageTaouaf() {
 <p>Primo Piatto: Riso</p>
 <p>Secondo Piatto: Filetto di Merluzzo</p>
 <p>Dolce: Tiramisù</p>
-<p>soluzione:per unire le 4 commit : git rebase -i HEAD~4</p>
+<p>soluzione:per unire le 4 commit : git rebase -i 8b9c4f4</p>
 
 
 
