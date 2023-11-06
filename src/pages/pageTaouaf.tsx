@@ -5,7 +5,7 @@ function pageTaouaf() {
   return (
     <div>
       <Logo />
-      <h1>Taouaf Widad</h1>
+      <p>Taouaf Widad</p>
     </div>
   );
 }
